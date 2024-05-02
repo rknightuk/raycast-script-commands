@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon 📄
+# @raycast.icon new-file-in-finder.png
 # @raycast.argument1 { "type": "text", "placeholder": "New file name" }
 
 # Documentation:

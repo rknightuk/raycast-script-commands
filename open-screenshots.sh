@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon 📂
+# @raycast.icon open-x.png
 
 # Documentation:
 # @raycast.description Open Screenshots Folder

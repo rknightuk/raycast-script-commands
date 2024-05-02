@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon app-mode.png
 # @raycast.argument1 { "type": "dropdown", "placeholder": "Choose Mode", "data": [ { "title": "Home", "value": "home" }, { "title": "Work", "value": "work" }, { "title": "Podcasting", "value": "podcasting" } ] }
 
 # Documentation:
